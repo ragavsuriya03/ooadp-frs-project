@@ -1,6 +1,6 @@
 package com.frs.src;
 import java.time.LocalDateTime;
-
+//inheritance
 public class RegularTicket extends Ticket {
     private String specialServices;
 

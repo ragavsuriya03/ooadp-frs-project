@@ -1,6 +1,6 @@
 package com.frs.src;
 import java.time.LocalDateTime;
-
+//inheritance
 public class TouristTicket extends Ticket {
     private String hotelAddress;
     private String[] selectedTouristLocation;
